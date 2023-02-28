@@ -1,7 +1,7 @@
 # MeMED
 Sample size calculation for sensitivity of MeMED with respect to procalcitonin in pediatric respiratory infections
 
-# HYPOTHESIS
+# Hypothesis
 Sensitivity improvement of +/-7%
 
 # Power calculations for a diagnostic test
