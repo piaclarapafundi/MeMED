@@ -1,0 +1,2 @@
+# MeMED
+Sample size calculation
